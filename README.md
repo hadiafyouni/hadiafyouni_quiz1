@@ -7,7 +7,7 @@ This repository contains a React application. Below are the steps followed to in
 ## 1. Create the React Project
 Depending on the requirements, the project was initialized using one of the following methods:
 
-### Option A: Vite (Fast SPA)
+### Vite (Fast SPA)
 ```bash
 npm create vite@latest my-app -- --template react
 cd my-app
